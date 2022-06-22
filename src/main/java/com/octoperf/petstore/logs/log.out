@@ -1,0 +1,86 @@
+2022-06-10 12:06:102 INFO  BasePage :30 - Launching Chrome Browser 
+2022-06-10 12:06:757 INFO  HomePage :19 - clicking on enter the store Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Enter the Store')]'
+2022-06-10 12:06:987 INFO  BasePage :30 - Launching Chrome Browser 
+2022-06-10 12:06:823 INFO  HomePage :19 - clicking on enter the store Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Enter the Store')]'
+2022-06-10 12:06:850 INFO  ActionPage :18 - getting text from link[[ChromeDriver: chrome on WINDOWS (034fa1f52744668f71a9e276b0b36050)] -> xpath: //a[contains(text(),'Sign In')]]
+2022-06-10 12:06:38 INFO  ActionPage :24 - click on sign in tab[[ChromeDriver: chrome on WINDOWS (034fa1f52744668f71a9e276b0b36050)] -> xpath: //a[contains(text(),'Sign In')]]
+2022-06-10 12:06:75 INFO  LoginPage :17 - getting Register now text[[ChromeDriver: chrome on WINDOWS (034fa1f52744668f71a9e276b0b36050)] -> xpath: //a[contains(text(),'Register Now!')]]
+2022-06-10 12:06:382 INFO  LoginPage :23 - click on register now tab[[ChromeDriver: chrome on WINDOWS (034fa1f52744668f71a9e276b0b36050)] -> xpath: //a[contains(text(),'Register Now!')]]
+2022-06-10 12:06:201 INFO  NewAccountFormPage :17 - getting user information textProxy element for: DefaultElementLocator 'By.xpath: //h3[contains(text(),'User Information')]'
+2022-06-10 12:06:435 INFO  BasePage :30 - Launching Chrome Browser 
+2022-06-10 12:06:513 INFO  HomePage :19 - clicking on enter the store Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Enter the Store')]'
+2022-06-10 12:06:537 INFO  ActionPage :18 - getting text from link[[ChromeDriver: chrome on WINDOWS (d85c4a4d5b41e6142ea30d584be0bc23)] -> xpath: //a[contains(text(),'Sign In')]]
+2022-06-10 12:06:833 INFO  ActionPage :24 - click on sign in tab[[ChromeDriver: chrome on WINDOWS (d85c4a4d5b41e6142ea30d584be0bc23)] -> xpath: //a[contains(text(),'Sign In')]]
+2022-06-10 12:06:865 INFO  LoginPage :17 - getting Register now text[[ChromeDriver: chrome on WINDOWS (d85c4a4d5b41e6142ea30d584be0bc23)] -> xpath: //a[contains(text(),'Register Now!')]]
+2022-06-10 12:06:132 INFO  LoginPage :23 - click on register now tabProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Register Now!')]'
+2022-06-10 12:06:152 INFO  NewAccountFormPage :17 - getting user information text[[ChromeDriver: chrome on WINDOWS (d85c4a4d5b41e6142ea30d584be0bc23)] -> xpath: //h3[contains(text(),'User Information')]]
+2022-06-10 12:06:368 INFO  ActionPage :24 - click on sign in tab[[ChromeDriver: chrome on WINDOWS (d85c4a4d5b41e6142ea30d584be0bc23)] -> xpath: //a[contains(text(),'Sign In')]]
+2022-06-13 11:06:423 INFO  BasePage :30 - Launching Chrome Browser 
+2022-06-13 11:06:255 INFO  HomePage :19 - clicking on enter the store Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Enter the Store')]'
+2022-06-13 11:06:274 INFO  ActionPage :21 - getting text from link[[ChromeDriver: chrome on WINDOWS (99f631a054184326651a1b38a81f6b08)] -> xpath: //a[contains(text(),'Sign In')]]
+2022-06-13 11:06:703 INFO  ActionPage :27 - click on sign in tab[[ChromeDriver: chrome on WINDOWS (99f631a054184326651a1b38a81f6b08)] -> xpath: //a[contains(text(),'Sign In')]]
+2022-06-13 11:06:720 INFO  LoginPage :26 - getting Register now text[[ChromeDriver: chrome on WINDOWS (99f631a054184326651a1b38a81f6b08)] -> xpath: //a[contains(text(),'Register Now!')]]
+2022-06-13 11:06:932 INFO  LoginPage :32 - click on register now tabProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Register Now!')]'
+2022-06-13 11:06:964 INFO  NewAccountFormPage :74 - getting user information text[[ChromeDriver: chrome on WINDOWS (99f631a054184326651a1b38a81f6b08)] -> xpath: //h3[contains(text(),'User Information')]]
+2022-06-13 11:06:390 INFO  BasePage :30 - Launching Chrome Browser 
+2022-06-13 11:06:124 INFO  HomePage :19 - clicking on enter the store Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Enter the Store')]'
+2022-06-13 11:06:146 INFO  ActionPage :21 - getting text from link[[ChromeDriver: chrome on WINDOWS (035a97b5df41a38333ac571dbf9eb578)] -> xpath: //a[contains(text(),'Sign In')]]
+2022-06-13 11:06:421 INFO  ActionPage :27 - click on sign in tab[[ChromeDriver: chrome on WINDOWS (035a97b5df41a38333ac571dbf9eb578)] -> xpath: //a[contains(text(),'Sign In')]]
+2022-06-13 11:06:441 INFO  LoginPage :26 - getting Register now text[[ChromeDriver: chrome on WINDOWS (035a97b5df41a38333ac571dbf9eb578)] -> xpath: //a[contains(text(),'Register Now!')]]
+2022-06-13 11:06:662 INFO  LoginPage :32 - click on register now tabProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Register Now!')]'
+2022-06-13 11:06:683 INFO  NewAccountFormPage :74 - getting user information text[[ChromeDriver: chrome on WINDOWS (035a97b5df41a38333ac571dbf9eb578)] -> xpath: //h3[contains(text(),'User Information')]]
+2022-06-13 11:06:830 INFO  NewAccountFormPage :82 - enter user id [[ChromeDriver: chrome on WINDOWS (035a97b5df41a38333ac571dbf9eb578)] -> xpath: //input[@name='username']]
+2022-06-13 11:06:923 INFO  NewAccountFormPage :89 - enering password[[ChromeDriver: chrome on WINDOWS (035a97b5df41a38333ac571dbf9eb578)] -> xpath: //input[@name='password']]
+2022-06-13 11:06:26 INFO  NewAccountFormPage :95 - entering repeat password[[ChromeDriver: chrome on WINDOWS (035a97b5df41a38333ac571dbf9eb578)] -> xpath: //input[@name='repeatedPassword']]
+2022-06-13 11:06:104 INFO  NewAccountFormPage :100 - entering first name[[ChromeDriver: chrome on WINDOWS (035a97b5df41a38333ac571dbf9eb578)] -> xpath: //input[@name='account.firstName']]
+2022-06-13 11:06:179 INFO  NewAccountFormPage :105 - entering last name[[ChromeDriver: chrome on WINDOWS (035a97b5df41a38333ac571dbf9eb578)] -> xpath: //input[@name='account.lastName']]
+2022-06-13 11:06:258 INFO  NewAccountFormPage :110 - enter email address[[ChromeDriver: chrome on WINDOWS (035a97b5df41a38333ac571dbf9eb578)] -> xpath: //input[@name='account.email']]
+2022-06-13 11:06:339 INFO  NewAccountFormPage :115 - enter phone number[[ChromeDriver: chrome on WINDOWS (035a97b5df41a38333ac571dbf9eb578)] -> xpath: //input[@name='account.phone']]
+2022-06-16 11:06:689 INFO  BasePage :30 - Launching Chrome Browser 
+2022-06-16 11:06:513 INFO  BasePage :30 - Launching Chrome Browser 
+2022-06-16 11:06:788 INFO  HomePage :19 - clicking on enter the store Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Enter the Store')]'
+2022-06-16 11:06:827 INFO  ActionPage :21 - getting text from link[[ChromeDriver: chrome on WINDOWS (2c69ede0b55d79d7283cf5a0eecd00ec)] -> xpath: //a[contains(text(),'Sign In')]]
+2022-06-16 11:06:81 INFO  ActionPage :27 - click on sign in tab[[ChromeDriver: chrome on WINDOWS (2c69ede0b55d79d7283cf5a0eecd00ec)] -> xpath: //a[contains(text(),'Sign In')]]
+2022-06-16 11:06:113 INFO  LoginPage :26 - getting Register now text[[ChromeDriver: chrome on WINDOWS (2c69ede0b55d79d7283cf5a0eecd00ec)] -> xpath: //a[contains(text(),'Register Now!')]]
+2022-06-16 11:06:347 INFO  LoginPage :32 - click on register now tabProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Register Now!')]'
+2022-06-16 11:06:382 INFO  NewAccountFormPage :74 - getting user information text[[ChromeDriver: chrome on WINDOWS (2c69ede0b55d79d7283cf5a0eecd00ec)] -> xpath: //h3[contains(text(),'User Information')]]
+2022-06-16 11:06:593 INFO  NewAccountFormPage :82 - enter user id [[ChromeDriver: chrome on WINDOWS (2c69ede0b55d79d7283cf5a0eecd00ec)] -> xpath: //input[@name='username']]
+2022-06-16 11:06:767 INFO  NewAccountFormPage :89 - enering password[[ChromeDriver: chrome on WINDOWS (2c69ede0b55d79d7283cf5a0eecd00ec)] -> xpath: //input[@name='password']]
+2022-06-16 11:06:913 INFO  NewAccountFormPage :95 - entering repeat password[[ChromeDriver: chrome on WINDOWS (2c69ede0b55d79d7283cf5a0eecd00ec)] -> xpath: //input[@name='repeatedPassword']]
+2022-06-16 11:06:41 INFO  NewAccountFormPage :100 - entering first name[[ChromeDriver: chrome on WINDOWS (2c69ede0b55d79d7283cf5a0eecd00ec)] -> xpath: //input[@name='account.firstName']]
+2022-06-16 11:06:160 INFO  NewAccountFormPage :105 - entering last name[[ChromeDriver: chrome on WINDOWS (2c69ede0b55d79d7283cf5a0eecd00ec)] -> xpath: //input[@name='account.lastName']]
+2022-06-16 11:06:267 INFO  NewAccountFormPage :110 - enter email address[[ChromeDriver: chrome on WINDOWS (2c69ede0b55d79d7283cf5a0eecd00ec)] -> xpath: //input[@name='account.email']]
+2022-06-16 11:06:395 INFO  NewAccountFormPage :115 - enter phone number[[ChromeDriver: chrome on WINDOWS (2c69ede0b55d79d7283cf5a0eecd00ec)] -> xpath: //input[@name='account.phone']]
+2022-06-22 12:06:265 INFO  BasePage :30 - Launching Chrome Browser 
+2022-06-22 12:06:922 INFO  HomePage :19 - clicking on enter the store Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Enter the Store')]'
+2022-06-22 12:06:947 INFO  ActionPage :21 - getting text from link[[ChromeDriver: chrome on WINDOWS (4c1fa3f2442821202986adf9a1fe089a)] -> xpath: //a[contains(text(),'Sign In')]]
+2022-06-22 12:06:174 INFO  ActionPage :27 - click on sign in tab[[ChromeDriver: chrome on WINDOWS (4c1fa3f2442821202986adf9a1fe089a)] -> xpath: //a[contains(text(),'Sign In')]]
+2022-06-22 12:06:198 INFO  LoginPage :26 - getting Register now text[[ChromeDriver: chrome on WINDOWS (4c1fa3f2442821202986adf9a1fe089a)] -> xpath: //a[contains(text(),'Register Now!')]]
+2022-06-22 12:06:427 INFO  LoginPage :32 - click on register now tabProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Register Now!')]'
+2022-06-22 12:06:448 INFO  NewAccountFormPage :74 - getting user information text[[ChromeDriver: chrome on WINDOWS (4c1fa3f2442821202986adf9a1fe089a)] -> xpath: //h3[contains(text(),'User Information')]]
+2022-06-22 12:06:640 INFO  NewAccountFormPage :82 - enter user id [[ChromeDriver: chrome on WINDOWS (4c1fa3f2442821202986adf9a1fe089a)] -> xpath: //input[@name='username']]
+2022-06-22 12:06:817 INFO  NewAccountFormPage :89 - enering password[[ChromeDriver: chrome on WINDOWS (4c1fa3f2442821202986adf9a1fe089a)] -> xpath: //input[@name='password']]
+2022-06-22 12:06:952 INFO  NewAccountFormPage :95 - entering repeat password[[ChromeDriver: chrome on WINDOWS (4c1fa3f2442821202986adf9a1fe089a)] -> xpath: //input[@name='repeatedPassword']]
+2022-06-22 12:06:63 INFO  NewAccountFormPage :100 - entering first name[[ChromeDriver: chrome on WINDOWS (4c1fa3f2442821202986adf9a1fe089a)] -> xpath: //input[@name='account.firstName']]
+2022-06-22 12:06:167 INFO  NewAccountFormPage :105 - entering last name[[ChromeDriver: chrome on WINDOWS (4c1fa3f2442821202986adf9a1fe089a)] -> xpath: //input[@name='account.lastName']]
+2022-06-22 12:06:262 INFO  NewAccountFormPage :110 - enter email address[[ChromeDriver: chrome on WINDOWS (4c1fa3f2442821202986adf9a1fe089a)] -> xpath: //input[@name='account.email']]
+2022-06-22 12:06:384 INFO  NewAccountFormPage :115 - enter phone number[[ChromeDriver: chrome on WINDOWS (4c1fa3f2442821202986adf9a1fe089a)] -> xpath: //input[@name='account.phone']]
+2022-06-22 12:06:499 INFO  NewAccountFormPage :125 - enter address second line[[ChromeDriver: chrome on WINDOWS (4c1fa3f2442821202986adf9a1fe089a)] -> xpath: //input[@name='account.address2']]
+2022-06-22 12:06:618 INFO  NewAccountFormPage :120 - enter address first line[[ChromeDriver: chrome on WINDOWS (4c1fa3f2442821202986adf9a1fe089a)] -> xpath: //input[@name='account.address1']]
+2022-06-22 12:06:761 INFO  NewAccountFormPage :130 - enter ciy name[[ChromeDriver: chrome on WINDOWS (4c1fa3f2442821202986adf9a1fe089a)] -> xpath: //input[@name='account.city']]
+2022-06-22 12:06:896 INFO  NewAccountFormPage :135 - enter state name[[ChromeDriver: chrome on WINDOWS (4c1fa3f2442821202986adf9a1fe089a)] -> xpath: //input[@name='account.state']]
+2022-06-22 12:06:26 INFO  NewAccountFormPage :140 - enter Zip code[[ChromeDriver: chrome on WINDOWS (4c1fa3f2442821202986adf9a1fe089a)] -> xpath: //input[@name='account.zip']]
+2022-06-22 12:06:119 INFO  NewAccountFormPage :145 - enter country name[[ChromeDriver: chrome on WINDOWS (4c1fa3f2442821202986adf9a1fe089a)] -> xpath: //input[@name='account.country']]
+2022-06-22 12:06:360 INFO  NewAccountFormPage :151 - select language from drop down list[[ChromeDriver: chrome on WINDOWS (4c1fa3f2442821202986adf9a1fe089a)] -> xpath: //select[@name='account.languagePreference']]
+2022-06-22 12:06:547 INFO  NewAccountFormPage :156 - select category from drop down list[[ChromeDriver: chrome on WINDOWS (4c1fa3f2442821202986adf9a1fe089a)] -> xpath: //select[@name='account.favouriteCategoryId']]
+2022-06-22 12:06:715 INFO  NewAccountFormPage :161 - check box to enable my list option[[ChromeDriver: chrome on WINDOWS (4c1fa3f2442821202986adf9a1fe089a)] -> xpath: //input[@name='account.listOption']]
+2022-06-22 12:06:813 INFO  NewAccountFormPage :166 - check box to enable my banner option[[ChromeDriver: chrome on WINDOWS (4c1fa3f2442821202986adf9a1fe089a)] -> xpath: //input[@name='account.bannerOption']]
+2022-06-22 12:06:897 INFO  NewAccountFormPage :171 - click on save account information button[[ChromeDriver: chrome on WINDOWS (4c1fa3f2442821202986adf9a1fe089a)] -> xpath: //input[@name='account.bannerOption']]
+2022-06-22 12:06:926 INFO  ActionPage :21 - getting text from link[[ChromeDriver: chrome on WINDOWS (4c1fa3f2442821202986adf9a1fe089a)] -> xpath: //a[contains(text(),'Sign In')]]
+2022-06-22 12:06:187 INFO  ActionPage :27 - click on sign in tab[[ChromeDriver: chrome on WINDOWS (4c1fa3f2442821202986adf9a1fe089a)] -> xpath: //a[contains(text(),'Sign In')]]
+2022-06-22 12:06:385 INFO  LoginPage :37 - clear text from username field[[ChromeDriver: chrome on WINDOWS (4c1fa3f2442821202986adf9a1fe089a)] -> xpath: //input[@name='username']]
+2022-06-22 12:06:471 INFO  LoginPage :42 - entering username into username field[[ChromeDriver: chrome on WINDOWS (4c1fa3f2442821202986adf9a1fe089a)] -> xpath: //input[@name='username']]
+2022-06-22 12:06:602 INFO  LoginPage :48 - clear text from password field [[ChromeDriver: chrome on WINDOWS (4c1fa3f2442821202986adf9a1fe089a)] -> xpath: //input[@name='password']]
+2022-06-22 12:06:726 INFO  LoginPage :53 - enter password into password field[[ChromeDriver: chrome on WINDOWS (4c1fa3f2442821202986adf9a1fe089a)] -> xpath: //input[@name='password']]
+2022-06-22 12:06:64 INFO  LoginPage :58 - click on signon buttonProxy element for: DefaultElementLocator 'By.xpath: //input[@name='signon']'
+2022-06-22 12:06:113 INFO  ActionPage :31 - getting text from my account to verifyMy Account
